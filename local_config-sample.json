@@ -1,0 +1,8 @@
+{
+    "bucket": "xxxxxxxxx",
+    "env": "env",
+    "id": "xxxxxxxxxxxxxxxx",
+    "cfstack_database_prefix": "xxxxxx-",
+    "status": "B1",
+    "start": "A2"
+}

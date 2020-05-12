@@ -1,0 +1,4 @@
+boto3
+awswrangler
+google-auth==1.7.2
+google-api-python-client
