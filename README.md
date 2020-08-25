@@ -11,7 +11,7 @@ Steps
 
 3 - Install Python Requirements
 ```bash
-python -m pip install -U -t requirements.txt
+python -m pip install -U -r requirements.txt
 ```
 
 4 - Execute `generate_token.py`. The `token.pickle` will be generated.
